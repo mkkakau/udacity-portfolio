@@ -1,0 +1,101 @@
+/**********
+  Global
+**********/
+body {
+  background-color: #348aa7;
+}
+
+#body-content {
+  background-color: #fff;
+  max-width: 80%;
+  min-height: 100vh;
+  margin: 0 auto;
+  font-family: 'Lato', sans-serif;
+  color: #000;
+
+  -webkit-box-shadow: 0 0 10px 3px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0 0 10px 3px rgba(0,0,0,0.75);
+  box-shadow: 0 0 10px 3px rgba(0,0,0,0.75);
+
+}
+
+/**********
+  Header
+**********/
+
+header {
+  margin-top: 20px;
+}
+
+#divider {
+  margin: 10px 0 0 0;
+  border-top: 3px solid #666;
+}
+
+#title {
+  margin-bottom: 0;
+  text-transform: uppercase;
+  text-align: right;
+
+}
+
+#subtitle {
+  text-transform: uppercase;
+  text-align: right;
+  font-size: 1.1em;
+  color: #ff729f;
+}
+
+/***************
+  Middle Image
+***************/
+
+#big-image {
+  min-width: 100%;
+  margin: 10px 0 0 0;
+}
+
+/****************
+  Featured Work
+****************/
+
+.fw-item {
+  margin: 5px 0;
+}
+
+.fw-image {
+  width: 100%;
+}
+
+.fw-title {
+  text-transform: uppercase;
+}
+
+.fw-link {
+  color: #ff729f;
+  font-size: 1.1em;
+}
+
+
+/*********
+  Footer
+*********/
+footer {
+  margin-bottom: 20px;
+}
+
+/****************
+  Media Queries
+****************/
+
+@media (max-width: 992px) {
+  #title {
+    text-align: center;
+  }
+  #subtitle {
+    text-align: center;
+  }
+  #logo {
+    margin: 0 auto;
+  }
+}
