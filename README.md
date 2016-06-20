@@ -13,3 +13,5 @@ OR
 * Clone the repository and run index.html
 
   `git clone https://github.com/mkkakau/portfolio.git`
+
+Not currently seeking collaboration.
