@@ -14,4 +14,12 @@ OR
 
   `git clone https://github.com/mkkakau/portfolio.git`
 
-Not currently seeking collaboration.
+Create your Own
+---------------
+I am not currently seeking collaboration on this project, but if you would like to learn to create your own portfolio, you can follow these Udacity courses:
+
+[Responsive Web Design Fundamentals](https://www.udacity.com/courses/responsive-web-design-fundamentals--ud893)
+
+[Intro to HTML and CSS](https://www.udacity.com/courses/intro-to-html-and-css--ud304)
+
+[Responsive Images](https://www.udacity.com/courses/responsive-images--ud882)
